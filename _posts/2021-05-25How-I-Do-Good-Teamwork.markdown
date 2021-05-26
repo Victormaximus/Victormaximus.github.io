@@ -3,7 +3,7 @@ layout: post
 title: How I Do Good Teamwork
 date: 2021-05-24 21:42:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: CoworkingSpace.jpeg # Add image post (optional)
+img: coworkingspacetest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Teamwork, Programming]
 ---
